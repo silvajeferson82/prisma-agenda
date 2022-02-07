@@ -1,0 +1,9 @@
+POST http://localhost:3031/create
+
+###
+
+GET  http://localhost:3031/index
+
+
+### 
+PUT http://localhost:3031/update
